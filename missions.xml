@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<missio>
+    <ubicacio>
+        <coordenades>34.567, -12.345, 45.678</coordenades>
+        <nom_regio_cosmica>GalaxiaXYZ</nom_regio_cosmica>
+        <sistemes_solars>
+            <sistema_solar>Solar1</sistema_solar>
+            <sistema_solar>Solar2</sistema_solar>
+        </sistemes_solars>
+    </ubicacio>
+    <codi_missio>5678</codi_missio>
+    <cap_missio>
+        <rang>General</rang>
+        <federacio>FAC</federacio>
+        <nom_lider_missio>____</nom_lider_missio>
+    </cap_missio>
+    <data_missio>2550-07-15</data_missio>
+    <tipus_missio>EXPLORACIÓ</tipus_missio>
+    <durada_estimada_mesos>12</durada_estimada_mesos>
+    <detalls_missio>
+        <objectiu>Descobrir noves formacions estel·lars</objectiu>
+        <previsions_logistiques>
+            <recursos>
+                <recurs>Mòduls d'exploració</recurs>
+                <recurs>Alimentació espacial</recurs>
+            </recursos>
+            <previsions>Esperem trobar formacions estel·lars úniques.</previsions>
+        </previsions_logistiques>
+        <durada_prevista_dies>300</durada_prevista_dies>
+        <observacions_especifics>Exploració enfocada en la zona nòrdica de la galàxia.</observacions_especifics>
+    </detalls_missio>
+</missio>
